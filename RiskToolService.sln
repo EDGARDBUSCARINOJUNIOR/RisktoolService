@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiskToolService", "RiskToolService\RiskToolService.csproj", "{DA765DB6-89F6-4792-9662-7D934708DCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA765DB6-89F6-4792-9662-7D934708DCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA765DB6-89F6-4792-9662-7D934708DCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA765DB6-89F6-4792-9662-7D934708DCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA765DB6-89F6-4792-9662-7D934708DCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5A0C34-3517-4F01-BDC0-ACA2D5798309}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+Create
+> open power shell (ADM)
+> sc.exe create RiskToolService binpath="C:\Users\edbr\source\repos\RiskToolService\RiskToolService\bin\Release\net6.0\RiskToolService.exe"
+
+Delete
+> sc.exe delete RiskToolService
+
+Manage
+> sc.exe start RiskToolService
+> sc.exe stop RiskToolService
